@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+  }
+  
+  html, body{
+    background:url('../images/concrete2.png');
+      border-color: #dddddd;
+      font-size: 20px;
+      line-height: 35px;
+      font-family:'Roboto', sans-serif; 
+      height: 100%;  	
+  }
+  .container {
+    background:url('../images/concrete2.png');
+    min-height: 100%;
+    height: auto;
+    height: 100%;
+    margin: 0 auto -4px;
+  }
+  
+  .jumbotron {
+      color: #BDB76B;
+      background: url('../images/train.jpg');
+      background-size: 1103px, 453px;
+      background-repeat:no-repeat;
+  }
